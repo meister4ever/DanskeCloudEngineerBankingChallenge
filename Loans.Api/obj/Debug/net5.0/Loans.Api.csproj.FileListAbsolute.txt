@@ -1,0 +1,13 @@
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\bin\Debug\net5.0\Danske.Common.dll
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\bin\Debug\net5.0\Danske.Loan.Api.Models.dll
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\bin\Debug\net5.0\Danske.Loan.Business.Managers.dll
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\staticwebassets\Loans.Api.StaticWebAssets.Manifest.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\staticwebassets\Loans.Api.StaticWebAssets.xml
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\scopedcss\bundle\Loans.Api.styles.css
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Loans.Api\obj\Debug\net5.0\Loans.Api.RazorTargetAssemblyInfo.cache

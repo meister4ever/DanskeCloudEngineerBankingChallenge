@@ -1,0 +1,9 @@
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\obj\Debug\netcoreapp3.1\Danske.Loan.Api.Models.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\obj\Debug\netcoreapp3.1\Danske.Loan.Api.Models.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\obj\Debug\netcoreapp3.1\Danske.Loan.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\bin\Debug\netcoreapp3.1\Danske.Loan.Api.Models.deps.json
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\bin\Debug\netcoreapp3.1\Danske.Loan.Api.Models.dll
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\bin\Debug\netcoreapp3.1\Danske.Loan.Api.Models.pdb
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\obj\Debug\netcoreapp3.1\Danske.Loan.Api.Models.dll
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\obj\Debug\netcoreapp3.1\Danske.Loan.Api.Models.pdb
+C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Loan.Api.Models\obj\Debug\netcoreapp3.1\Danske.Loan.Api.Models.csprojAssemblyReference.cache
