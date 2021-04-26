@@ -8,10 +8,10 @@ This repository is home to Danske Banking Challenge API and associated projects
 - The [.NET Core SDK (3.1+)](https://dotnet.microsoft.com/download) to build the application.
 
 ### Run the API
-From [Visual Studio](https://visualstudio.microsoft.com/downloads/), you can directly run it and test it on Swagger, since no authorization is required
+From [Visual Studio](https://visualstudio.microsoft.com/downloads/), you can directly run it and test it on Swagger, since no authorization is required.
 
 ### Run the Unit Testing
-To test the Challenge, run the test on Danske.Loan.Business.Tests unit test project
+To test the Challenge, run the test on Danske.Loan.Business.Tests unit test project.
 
 ### Unit Tests guidelines:
 - Project on the same level of the project that has the method/s class/es to be tested. 
