@@ -96,6 +96,27 @@ namespace Danske.Loan.Business.Tests.LoanManagerTests
             administrationFee.Should().Be(expectedAdministrationFee);
         }
 
+        [Fact]
+        public void GetMaxAdministrationFee_When_GetAdministrativeFeesTotal_IsCalled_WithAHighEnoughAmount()
+        {
+            // Arrange
+            Initialize(out var loanTerms);
+            loanTerms.Amount = 1500000.00;
+
+            // From the PDF Statement
+            /// Administration fee (one-time): 1% or 10000 kr. whichever is lowest
+            /// So for 1.5 millon kr., it would be 10.000 kr as it's the maximum amount
+            var expectedAdministrationFee = 10000;
+
+            var sut = new LoanManager();
+
+            // Act
+            var administrationFee = sut.GetAdministrativeFeesTotal(loanTerms);
+
+            // Assert
+            administrationFee.Should().Be(expectedAdministrationFee);
+        }
+
         private void Initialize(out LoanTerms loanTerms)
         {
             loanTerms = new LoanTerms
