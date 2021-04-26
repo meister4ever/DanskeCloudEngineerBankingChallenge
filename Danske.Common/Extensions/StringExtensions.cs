@@ -4,11 +4,6 @@ namespace Danske.Common.Extensions
 {
     public static class StringExtensions
     {
-        public static bool IsValid(this string str)
-        {
-            return !string.IsNullOrEmpty(str?.Trim());
-        }
-
         public static string AsCurrencyString(this double amount, string cultureInfo)
         {
             // Display string representations of numbers for the loans culture
