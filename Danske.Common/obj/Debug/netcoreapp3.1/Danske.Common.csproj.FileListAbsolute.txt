@@ -1,9 +1,0 @@
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\obj\Debug\netcoreapp3.1\Danske.Common.AssemblyInfoInputs.cache
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\obj\Debug\netcoreapp3.1\Danske.Common.AssemblyInfo.cs
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\obj\Debug\netcoreapp3.1\Danske.Common.csproj.CoreCompileInputs.cache
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\bin\Debug\netcoreapp3.1\Danske.Common.deps.json
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\bin\Debug\netcoreapp3.1\Danske.Common.dll
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\bin\Debug\netcoreapp3.1\Danske.Common.pdb
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\obj\Debug\netcoreapp3.1\Danske.Common.dll
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\obj\Debug\netcoreapp3.1\Danske.Common.pdb
-C:\Users\Sebastian\source\repos\DanskeCloudEngineerBankingChallenge\Danske.Common\obj\Debug\netcoreapp3.1\Danske.Common.csprojAssemblyReference.cache
